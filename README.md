@@ -90,4 +90,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at [your.email@example.com]
+For any questions or feedback, please contact Praveen Pothan at praveeneathala16@gmail.com
